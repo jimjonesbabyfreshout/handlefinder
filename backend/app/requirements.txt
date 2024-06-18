@@ -14,4 +14,4 @@ requests-futures==1.0.0
 six==1.16.0
 stem==1.8.1
 torrequest==0.1.0
-urllib3==1.26.12
+urllib3==1.26.19
